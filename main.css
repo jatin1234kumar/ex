@@ -1,0 +1,45 @@
+.body {
+    background-color: #c2e0f7;
+    text-align: center;
+    margin-top: 180px;
+    box-shadow: 
+}
+
+img {
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 75px;
+    font-style: normal;
+    width: 100%;
+}
+
+p {
+    font-size: 22px;
+    width: 100%;
+    color: #767171;
+}
+
+.card-block {
+    padding: 40px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+.inputbox {
+    font-size: 20px;
+    padding: 7px 120px 7px 14px;
+    margin-right: 8px; 
+}
+
+button {
+    background-color: #369aff;
+    color: #fff;
+    border-radius: 5px;
+    border-color: #369aff;
+    padding: 13px;
+    font-size: 15px  
+}
